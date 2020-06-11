@@ -2,6 +2,7 @@
     "name": "aimanong-zyzyzzy/amnpay-payapi",
     "description": "聚合支付系统核心支付功能模块",
     "type": "library",
+    "version": "1.0.2",
     "keywords": [
         "pay",
         "聚合支付",
