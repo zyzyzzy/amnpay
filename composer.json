@@ -16,7 +16,7 @@
     ],
     "require": {
         "php":">=7.0",
-        "aimanong-zyzyzzy/amnpay-payapi":"dev-master"
+        "aimanong-zyzyzzy/amnpay-payapi":"V1.0.1"
     },
     "autoload": {
         "psr-4": {
